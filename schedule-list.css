@@ -173,7 +173,7 @@
 
 .atcb-button {
   box-shadow: var(--btn-shadow);
-  min-width: 17.5em;
+  min-width: none;
   max-width: 16em;
   position: relative;
   z-index: 1;
@@ -258,7 +258,7 @@
 .atcb-date-btn-right {
   position: relative;
   color: var(--date-btn-text);
-  min-width: 12.5em;
+  min-width: none;
   overflow-wrap: anywhere;
 }
 
